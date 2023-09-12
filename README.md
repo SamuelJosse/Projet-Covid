@@ -5,8 +5,7 @@ Samuel JOSSE
 
 
 ## Fabriqué avec
-    - Javascript
-    - JQuery
+    - Python
    
 
 
